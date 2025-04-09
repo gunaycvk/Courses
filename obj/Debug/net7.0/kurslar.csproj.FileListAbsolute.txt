@@ -66,3 +66,4 @@ C:\Users\trans\dotnet\kurslar\bin\Debug\net7.0\Humanizer.dll
 C:\Users\trans\dotnet\kurslar\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
 C:\Users\trans\dotnet\kurslar\bin\Debug\net7.0\Mono.TextTemplating.dll
 C:\Users\trans\dotnet\kurslar\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\trans\dotnet\kurslar\obj\Debug\net7.0\kurslar.sourcelink.json
